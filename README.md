@@ -57,8 +57,8 @@ Other configuration can be decided by yourself, based on the instance being used
 ## Questions
 
  1. How long did you spend on this assessment in total?\
- _
-
+    Based on office working hours. Took a day to start and finish in a day
+    
  2. What was the most difficult task?\
     Deploying to eks
 
