@@ -60,8 +60,8 @@ Other configuration can be decided by yourself, based on the instance being used
  _
 
  2. What was the most difficult task?\
- _
+    Deploying to eks
 
  3. If you had an unlimited amount of time to complete this task, what would you have done differently?\
- _
+    Versioning and autotrigger based on pr request or tag. Exposing service via ingress with ssl. With some dummy domain to get application hits via domain
 
